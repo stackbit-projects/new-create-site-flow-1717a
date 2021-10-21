@@ -41,6 +41,9 @@ sections:
       inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
     actionsPosition: bottom
     type: TextSection
+    styles:
+      title:
+        textAlign: center
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-f
