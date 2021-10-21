@@ -14,5 +14,12 @@
                 "colors": "colors-a"
             }
         },
+        {
+            "label": "Light",
+            "thumbnail": "images/placeholder.png",
+            "data": {
+                "colors": "colors-a"
+            }
+        }
     ]
 }
