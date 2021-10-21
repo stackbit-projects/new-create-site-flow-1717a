@@ -2,7 +2,7 @@
     "model": "TextSection",
     "presets": [{
             "label": "Button bottom",
-            "thumbnail": "images/cta-bottom.png",
+            "thumbnail": "images/placeholder.png",
             "data": {
                 "actionsPosition": "bottom",
                 "colors": "colors-c"
