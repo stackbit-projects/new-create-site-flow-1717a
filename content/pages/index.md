@@ -7,7 +7,7 @@ sections:
     width: wide
     height: short
     contentWidth: small
-    contentAlignHoriz: center
+    contentAlignHoriz: right
     contentAlignVert: middle
     topGap: none
     bottomGap: none
