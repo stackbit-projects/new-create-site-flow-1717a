@@ -135,6 +135,8 @@ sections:
     styles:
       title:
         textAlign: right
+      text:
+        textAlign: center
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c
