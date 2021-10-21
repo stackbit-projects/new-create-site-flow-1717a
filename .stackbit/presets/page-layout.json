@@ -51,7 +51,7 @@
         },
         {
             "label": "About",
-            "thumbnail": "images/placeholder.png",
+            "thumbnail": "images/page-about.png",
             "data": {
                 "title": "About us",
                 "sections": [{
