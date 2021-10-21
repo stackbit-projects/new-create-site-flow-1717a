@@ -6,7 +6,7 @@ sections:
     colors: colors-a
     width: wide
     height: short
-    contentWidth: medium
+    contentWidth: small
     contentAlignHoriz: center
     contentAlignVert: middle
     topGap: none
