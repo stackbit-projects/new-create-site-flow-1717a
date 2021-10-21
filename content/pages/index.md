@@ -3,7 +3,7 @@ title: Home
 layout: PageLayout
 sections:
   - elementId: ''
-    colors: colors-d
+    colors: colors-a
     width: wide
     height: tall
     contentWidth: small
