@@ -1,7 +1,7 @@
 {
     "model": "TextSection",
     "presets": [{
-            "label": "Button bottom",
+            "label": "Dark",
             "thumbnail": "images/placeholder.png",
             "data": {
                 "actionsPosition": "bottom",
