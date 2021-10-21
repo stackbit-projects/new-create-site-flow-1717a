@@ -133,7 +133,8 @@ sections:
     action: /.netlify/functions/submission_created
     type: ContactSection
     styles:
-      title: {}
+      title:
+        textAlign: center
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c
