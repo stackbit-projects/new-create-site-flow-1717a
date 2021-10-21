@@ -132,6 +132,9 @@ sections:
       altText: Contact form image
     action: /.netlify/functions/submission_created
     type: ContactSection
+    styles:
+      title:
+        textAlign: right
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c
