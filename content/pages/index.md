@@ -5,7 +5,7 @@ sections:
   - elementId: ''
     colors: colors-a
     width: wide
-    height: tall
+    height: short
     contentWidth: small
     contentAlignHoriz: center
     contentAlignVert: middle
