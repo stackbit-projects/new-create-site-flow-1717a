@@ -9,7 +9,7 @@
             }
         },
         {
-            "label": "Button right",
+            "label": "Light",
             "thumbnail": "images/placeholder.png",
             "data": {
                 "actionsPosition": "right",
