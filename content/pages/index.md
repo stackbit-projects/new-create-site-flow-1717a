@@ -43,7 +43,7 @@ sections:
     type: TextSection
     styles:
       title:
-        textAlign: center
+        textAlign: left
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-f
