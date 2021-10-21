@@ -134,7 +134,7 @@ sections:
     type: ContactSection
     styles:
       title:
-        textAlign: left
+        textAlign: center
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c
