@@ -1,5 +1,5 @@
 {
-    "model": "CtaSection",
+    "model": "TextSection",
     "presets": [{
             "label": "Button bottom",
             "thumbnail": "images/cta-bottom.png",
