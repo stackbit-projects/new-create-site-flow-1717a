@@ -10,7 +10,7 @@
         },
         {
             "label": "Button right",
-            "thumbnail": "images/cta-right.png",
+            "thumbnail": "images/placeholder.png",
             "data": {
                 "actionsPosition": "right",
                 "colors": "colors-c"
